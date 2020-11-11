@@ -1,0 +1,14 @@
+/home/alex/IdeaProjects/SATSolver/src/main/java/util/Binary.java
+/home/alex/IdeaProjects/SATSolver/src/main/java/sat/Assignment.java
+/home/alex/IdeaProjects/SATSolver/src/main/java/io/DimacsCNF.java
+/home/alex/IdeaProjects/SATSolver/src/main/java/sat/FreqUpdater.java
+/home/alex/IdeaProjects/SATSolver/src/main/java/exception/FatalException.java
+/home/alex/IdeaProjects/SATSolver/src/main/java/picker/BranchingVariablePicker.java
+/home/alex/IdeaProjects/SATSolver/src/main/java/io/IOManager.java
+/home/alex/IdeaProjects/SATSolver/src/main/java/engine/CDCL.java
+/home/alex/IdeaProjects/SATSolver/src/main/java/sat/Pair.java
+/home/alex/IdeaProjects/SATSolver/src/main/java/picker/FrequencyPicker.java
+/home/alex/IdeaProjects/SATSolver/src/main/java/sat/Clause.java
+/home/alex/IdeaProjects/SATSolver/src/main/java/sat/Unit.java
+/home/alex/IdeaProjects/SATSolver/src/main/java/picker/RandomPick.java
+/home/alex/IdeaProjects/SATSolver/src/main/java/sat/Formula.java

@@ -1,0 +1,16 @@
+sat/Assignment.class
+picker/RandomPick.class
+exception/FatalException.class
+engine/CDCL.class
+sat/Assignment$Status.class
+sat/Pair.class
+sat/Unit.class
+io/IOManager.class
+sat/Clause.class
+MainDriver.class
+picker/BranchingVariablePicker.class
+sat/Formula.class
+util/Binary.class
+sat/FreqUpdater.class
+io/DimacsCNF.class
+picker/FrequencyPicker.class
